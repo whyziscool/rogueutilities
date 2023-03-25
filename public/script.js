@@ -21,3 +21,5 @@ function animateAndRedirect(event) {
 
 const navLinks = document.querySelectorAll(".nav-link");
 navLinks.forEach(link => link.addEventListener("click", animateAndRedirect));
+
+console.log("hello why are you looking in console r u going to execute malicious code stop for the sake of steam happy")
